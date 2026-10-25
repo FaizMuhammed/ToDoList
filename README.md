@@ -1,0 +1,1 @@
+This is a small browser-based to-do app that lets a user add tasks with a due date and delete them from a list. It’s a straightforward front-end project built with plain HTML, CSS, and JavaScript, with no backend or persistence layer.
